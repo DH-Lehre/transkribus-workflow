@@ -1,0 +1,1 @@
+Dieser Kurs dient als Einführung in die Nutzung von Transkribus - einer webbasierten Software zur automatischen Texterkennung und Transkription von handschriftlichen und gedruckten Dokumenten. Sie erhalten einen kurzen Überblick über die Nutzungsmöglichkeiten und grundlegenden Funktionen, sodass Sie anschließend mit Ihrem individuellen Workflow starten können. 
