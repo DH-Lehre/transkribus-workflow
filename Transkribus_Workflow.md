@@ -14,7 +14,7 @@ narrator: Deutsch Female
 
 ## Wofür Transkribus nutzen?
 
-Transkribus ist eine Software zur automatischen Texterkennung und Transkription von handschriftlichen und gedruckten Dokumenten. Sie ist Teil des EU_Projekts READ (Recognition and Enrichment of Archival Documents) und wurde entwickelt, um insbesondere historische Texte für die Forschung effizienter lesbar, transkriptierbar und digital zugänglich für die Öffentlichkeit zu machen. 
+Transkribus ist eine Software zur automatischen Texterkennung und Transkription von handschriftlichen und gedruckten Dokumenten. Sie ist Teil des EU-Projekts READ (Recognition and Enrichment of Archival Documents) und wurde entwickelt, um insbesondere historische Texte für die Forschung effizienter lesbar, transkriptierbar und digital zugänglich für die Öffentlichkeit zu machen. 
 
 Zur automatischen Texterkennung verwendet Transkribus trainierte KI-Modelle, die auf spezifische Handschriften oder Schriftarten ausgerichtet sind und von Nutzern durch das Bereitstellen von fertigen, manuell korrigierten Transkripten als Trainingsdaten weiter verbessert werden können. Auch die Erstellung und das Trainieren eigener neuer Modelle ist möglich.
 
@@ -22,7 +22,7 @@ Neben der Texterkennung erkennt Transkribus zudem auch die Struktur von Dokument
 
 Die transkribierten Texte können schließlich in verschiedenen Formaten exportiert werden, was ein flexibles Weiterarbeiten ermöglicht. 
 
-![Arbeiten mit historischen Schriften - Foto](images/historische_schriften_schreibtisch.jpg "https://pixabay.com/photos/old-books-writing-paper-1941274/")
+![Arbeiten mit historischen Schriften - Foto](Images/historische_schriften_schreibtisch.jpg "Veröffentlicht als CC auf [Pixabay]https://pixabay.com/photos/old-books-writing-paper-1941274/")
 
 ## Account erstellen
 
@@ -38,10 +38,10 @@ Hier können Sie bereits einen ersten Transkriptionsversuch starten...
 
 (Bitte die Datenschutzbestimmungen beachten!)
 <br>
-... und werden wahrscheinlich feststellen, dass einiges noch nicht korrekt erkannt oder wie gewünscht formatiert wurde. Dies kann bereits an der Auflösungsqualität des Dokuments liegen oder aber daran, dass das Transkriptions-Modell mit der Schrift nicht vertraut ist. Es wurde bei der Transkription automatisch ein öffentliches Modell (hier _The German Giant I_ ) verwendet. Als Nutzer:in von Transkribus, ist es sowohl möglich, für jedes Dokument ein zu den Anforderungen (Sprache, Zeitraum, usw.) passendes Modell zu wählen, als auch eigene Modelle zu entwickeln. 
+... und werden wahrscheinlich feststellen, dass einiges noch nicht korrekt erkannt oder wie gewünscht formatiert wurde. Dies kann bereits an der Auflösungsqualität des Dokuments liegen oder aber daran, dass das Transkriptions-Modell mit der Schrift nicht vertraut ist. Es wurde bei der Transkription automatisch ein öffentliches Modell (hier _The German Giant I_ ) verwendet. Als Nutzer:in von Transkribus ist es sowohl möglich, für jedes Dokument ein zu den Anforderungen (Sprache, Zeitraum, usw.) passendes Modell zu wählen, als auch eigene Modelle zu entwickeln. 
 
 Dieser kurze Workshop soll zunächst nur in die Nutzung von Transkribus als reine Anwender:in einführen. Falls Interesse am trainieren von Modellen besteht, schauen Sie mal [hier](https://youtu.be/WroXUuLRa-E?feature=shared) rein.
-Doch auch bei Verwendung bereits existierender KI-Modelle, lassen sich im Transkriptionseditor einige Einstellungen vornehmen, um das gewünschte Endergebnis zu erhalten... doch dazu später mehr. :-)
+Doch auch bei Verwendung bereits existierender KI-Modelle, lassen sich im Transkriptionseditor einige Einstellungen vornehmen, um das gewünschte Endergebnis zu erhalten... dazu später mehr :-)
 
 >Zunächst benötigen Sie einen Account. Oben rechts in der Ecke finden Sie den Button _Kostenlos testen_ - nun sind es nurnoch wenige Eingaben bevor Sie loslegen können. 
 
@@ -81,11 +81,11 @@ Sie haben hier die Möglichkeit, Ihre archivierten Transkriptionen direkt über 
 
 ### Hilfe
 
->Am rechten Bildschirmrand und  finden Sie in den meisten Ansichten einen Hilfebutton, mit dem Sie unter anderem in das [Help Center](https://help.transkribus.org/de) von Transkribus gelangen:
+>Am rechten Bildschirmrand finden Sie in den meisten Ansichten einen Hilfebutton, mit dem Sie unter anderem in das [Help Center](https://help.transkribus.org/de) von Transkribus gelangen:
 
 ![Helpdesk - Screenshot](Images/hilfe_transkribus_img.png)
 
->Wenn Sich auch hierdurch Ihr Problem nicht lösen lässt, können Sie unten rechts auf der Seite mit einem Chatbot ins Gespräch treten...
+>Wenn sich auch hierdurch Ihr Problem nicht lösen lässt, können Sie unten rechts auf der Seite mit einem Chatbot ins Gespräch treten...
 
 ## Collection erstellen 
 
@@ -98,7 +98,11 @@ Ihre Sammlungen können Sie im Wordesk unter dem Navigationspunkt _Sammlungen_ e
 
 >Für den Fall, dass Sie regelmäßig historische oder handschriftliche Dokumente scannen wollen, um sie später mit Transkribus zu transkribieren, oder ein Projekt von großem Seitenumfang umsetzen wollen, ist die Nutzung eines ScanTents in Kombination mit der DocScan-App eine Überlegung wert!
 
-Die beiden Tools wurden entwickelt, um die Effizienz des Scanprozesses zu erhöhen und die Scanqualität zu verbessern. Bei dem ScanTent handelt es sich um eine speziell konzipierte mobile Scanstation. Die Halterung für das Smartphone ist über einem Zelt mit diffusem Licht angebracht, welches verbesserte Lichtverhältnisse bietet und so das Entstehen von Schatten und Überbelichtungen vermindert. Hierdurch kann vor allem der Transkriptionsprozess im Anschluss qualitativ verbessert werden. Mindestens genau so entscheidend ist darüber hinaus die Möglichkeit eines automatischen Auflösens: In Kombination mit der DocScan-App wird beim Umblättern zur nächsten Seite automatisch erkannt, wann ein neues Blatt gescannt werden soll und direkt ausgelöst. Die App kann zudem automatisch die Kanten der Dokumente erkennen und die Scans entsprechend zuschneiden. Anschließend lassen sich die Scans mithilfe von verschiedenen Korrektur-Tools dennoch auch noch manuell bearbeiten. Da DocScan und Transkribus kooperiern, wird anschließend das direkte und schnelle Integrieren von gescannten Dokumenten in ein Transkribus-Projekt ermöglicht, was den Workflow erheblich erleichtert. 
+Die beiden Tools wurden entwickelt, um die Effizienz des Scanprozesses zu erhöhen und die Scanqualität zu verbessern. 
+
+Bei dem ScanTent handelt es sich um eine speziell konzipierte mobile Scanstation. Die Halterung für das Smartphone ist über einem Zelt mit diffusem Licht angebracht, welches verbesserte Lichtverhältnisse bietet und so das Entstehen von Schatten und Überbelichtungen vermindert. Hierdurch kann vor allem der Transkriptionsprozess im Anschluss qualitativ verbessert werden. 
+
+Mindestens genau so entscheidend ist darüber hinaus die Möglichkeit eines automatischen Auflösens: In Kombination mit der DocScan-App wird beim Umblättern zur nächsten Seite automatisch erkannt, wann ein neues Blatt gescannt werden soll und direkt ausgelöst. Die App kann zudem automatisch die Kanten der Dokumente erkennen und die Scans entsprechend zuschneiden. Anschließend lassen sich die Scans mithilfe von verschiedenen Korrektur-Tools zusätzlich noch manuell bearbeiten. Da DocScan und Transkribus kooperiern, wird anschließend das direkte und schnelle Integrieren von gescannten Dokumenten in ein Transkribus-Projekt ermöglicht, was den Workflow erheblich erleichtert. 
 
 Also: Falls Sie Zugang zu einem ScanTent haben, lohnt sich ein Ausprobieren in jedem Fall! :-)
 
@@ -117,7 +121,7 @@ Also: Falls Sie Zugang zu einem ScanTent haben, lohnt sich ein Ausprobieren in j
 > Hier können Sie bereits hochgeladene Dokumente verwalten und mit Metadaten versehen.
 
 <!-- style="background-color: pink;"-->
-> **Kollaboratives Arbeiten:** Sie haben hier unteren anderem die Möglichkeiten, das Versionprotokoll einzusehen und andere User:innen als Projektparter:innen hinzuzufügen. Sie könne selbst entscheiden, welche Rolle diesen zugewiesen wird und können auf diese Weise ein individuelles kollaboratives Arbeitsfeld gestalten.
+> **Kollaboratives Arbeiten:** Hier haben Sie unteren anderem die Möglichkeiten, das Versionsprotokoll einzusehen und andere User:innen als Projektparter:innen hinzuzufügen. Sie können selbst entscheiden, welche Rolle diesen zugewiesen wird auf diese Weise ein individuelles kollaboratives Arbeitsfeld gestalten.
 
 ## Organisation der einzelnen Seiten 
 
@@ -195,3 +199,30 @@ Transkribus arbeitet größtenteils in einer Cloud und die Synchronisation kann 
 ![Export - Screenshot](Images/export_doc_img.png)
 
 >Es ist auch möglich, im Erarbeitungsprozess bereits einzelne Seiten zu exportieren. Diese Option finden Sie, indem Sie im Editor oben rechts den Button mit den drei Punkten auswählen... achten Sie nur darauf, dass Ihnen keine ungespeicherten Änderungen mehr angezeigt werden!
+
+## Mögliche Probleme bei der Arbeit mit Transkribus
+
+**Wie können Sie die Texterkennung für historische Dokumente mit wechselnder Schreibrichtung verbessern?**
+
+[[ ]] a) Durch Erhöhen der Scan-Auflösung
+[[X]] b) Durch manuelle Anpassung der Layouterkennung
+[[ ]] c) Durch Verwendung eines anderen Dateiformats
+********
+
+... via Konfiguration der Linien und Regionen
+
+********
+
+**Was sollten Sie tun, wenn Transkribus handschriftliche Abkürzungen und Zahlen nicht korrekt erkennt?**
+
+[[ ]] a) Für die fehlerhaft erkannten Elemente eine eigene Region erstellen
+[[ ]] b) Die Dokumente in ein anderes Format konvertieren
+[[X]] c) Die Erkennungsergebnisse manuell überprüfen und korrigieren
+******
+
+Der Frakturdruck wird sehr zuverlässig erkannt, die Handschrift bzw. vor allem die Abkürzungen und Zahlen bereiten der Anwendung jedoch oft Probleme.
+
+*******
+
+>Antworten zu einigen in vorigen Seminaren aufgekommenen Problemen oder Fragen finden Sie [hier](https://liascript.github.io/course/?https://raw.githubusercontent.com/DH-Lehre/2024SoSe_Seminar-Frauengeschichte-Fruehe-Neuzeit/main/Projekt_Frauen.md#48).
+
